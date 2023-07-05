@@ -27,9 +27,9 @@ _Welcome aboard, make yourself useful._
 * 1 cross-realm event/practice
 
 #### Rewards:
-*may wear the monster slayer symbol on a belt flag
-*may call yourself a monster slayer
-*may challenge rank 1 monsters
+* may wear the monster slayer symbol on a belt flag
+* may call yourself a monster slayer
+* may challenge rank 1 monsters
 
 
 ### **Rank 2: Scout**
@@ -57,8 +57,8 @@ _You spend as much time beating on recruits as you do monsters._
 * 5 cross-realm events/practices
 
 #### Rewards:
-may wear monster hunter icon on a shield
-may challenge rank 3 monsters
+* may wear monster hunter icon on a shield
+* may challenge rank 3 monsters
 
  
 ### **Rank 4: Hunter**
@@ -73,11 +73,11 @@ _No more expeditions for food, you hunt THREATS now._
 * 10 cross-realm events/practices
 
 #### Rewards:
-*I will make you a hunter belt flag
-*may wear a plain yellow belt
-*may wear the hunter symbol
-*may hold rank 3 and below challenges
-*may challenge rank 4 monsters
+* I will make you a hunter belt flag
+* may wear a plain yellow belt
+* may wear the hunter symbol
+* may hold rank 3 and below challenges
+* may challenge rank 4 monsters
 
 
 ### **Rank 5: Daystalker**
@@ -92,8 +92,8 @@ _You never balk at a challenge, rookies sign up to be like you._
 * 15 cross-realm events/practices
 
 Rewards:
-*I will knit you a macrame & paracord Daystalker belt (yellow with red trim)
-*may challenge rank 5 monsters
+* I will knit you a macrame & paracord Daystalker belt (yellow with red trim)
+* may challenge rank 5 monsters
 
  
 ### **Rank 6: Twilight Hunter**
@@ -108,8 +108,8 @@ _There’s a new apex predator in the biome._
 * 20 cross-realm events/practices
 
 Rewards:
-*I will design and make you a custom shield cover
-*may challenge rank 6 monsters
+* I will design and make you a custom shield cover
+* may challenge rank 6 monsters
 
 
 ### **Rank 7: Nightmare Slayer**
@@ -118,4 +118,4 @@ _Maybe YOU are the monster…_
 * WIN 666 duels (first to 6)
 
 Rewards:
-*I will design and make you a fitted tunic
+* I will design and make you a fitted tunic
