@@ -15,7 +15,10 @@ The goal of these ranks is a way to give players agency to "level up" and feel l
 (Note that duels must only be _fought_, not _won_.)
 
 Check your progress [here](https://docs.google.com/spreadsheets/d/1cej9XUM2AD0INM7NuOD7rZw5dLI9HPzNh4-FJeW3tFI/edit?usp=drive_link)
-  
+\
+\
+\
+\
 ### **Rank 1: Rookie**
 _Welcome aboard, make yourself useful._
 * waiver on file
@@ -32,6 +35,8 @@ Rank 1 Rewards:
 * may challenge rank 1 monsters
 \
 \
+\
+\
 ### **Rank 2: Scout**
 _You’re trusted to go on ahead… and skilled enough to make it back._
 * 2/3 Rank 1 monsters slain
@@ -44,6 +49,8 @@ _You’re trusted to go on ahead… and skilled enough to make it back._
 Rank 2 Rewards:
 *may wear a green belt
 *may challenge rank 2 monsters
+\
+\
 \
 \
 ### **Rank 3: Warden**
@@ -59,9 +66,10 @@ _You spend as much time beating on recruits as you do monsters._
 Rank 3 Rewards:
 * may wear monster hunter icon on a shield
 * may challenge rank 3 monsters
-
-
-
+\
+\
+\
+\
 ### **Rank 4: Hunter**
 _No more expeditions for food, you hunt THREATS now._
 * 2/3 Rank 3 monsters slain
@@ -79,9 +87,10 @@ Rank 4 Rewards:
 * may wear the hunter symbol
 * may hold rank 3 and below challenges
 * may challenge rank 4 monsters
-
-
-
+\
+\
+\
+\
 ### **Rank 5: Daystalker**
 _You never balk at a challenge, rookies sign up wanting to be like you someday._
 * 2/3 Rank 4 monsters slain
@@ -96,9 +105,10 @@ _You never balk at a challenge, rookies sign up wanting to be like you someday._
 Rank 5 Rewards:
 * I will knit you a macrame & paracord Daystalker belt (yellow with red trim)
 * may challenge rank 5 monsters
-
-
-
+\
+\
+\
+\
 ### **Rank 6: Twilight Hunter**
 _Even the insects fall silent when you pass through. Nature knows an apex predator._
 * 2/3 Rank 5 monsters slain
@@ -113,9 +123,10 @@ _Even the insects fall silent when you pass through. Nature knows an apex predat
 Rank 6 Rewards:
 * I will design and make you a custom shield cover
 * may challenge rank 6 monsters
-
-
-
+\
+\
+\
+\
 ### **Rank 7: Nightmare Slayer**
 _Maybe YOU are the monster…_
 * ALL monsters slain
