@@ -5,7 +5,8 @@ template = "page.html"
 +++
 
 ### Recording Progress
-* All points and duels progress can be reported @cheebocheebo via the Monster Slayer channel in the NS Discord (under #units). Check your progress [here](https://docs.google.com/spreadsheets/d/1cej9XUM2AD0INM7NuOD7rZw5dLI9HPzNh4-FJeW3tFI/edit?usp=drive_link)
+* All points and duels progress can be reported @cheebocheebo via the Monster Slayer channel in the NS Discord (under #units).
+* Check your progress on the spreadsheet [here](https://docs.google.com/spreadsheets/d/1cej9XUM2AD0INM7NuOD7rZw5dLI9HPzNh4-FJeW3tFI/edit?usp=drive_link)
 * Verification of starter garb will be done by Cheebo or Hunters (Rank 4) and above.
 * Heralds choose the participants to act as the "monster". Participants will be as close to the challenger's rank/skill as feasible. The challenges should be fun, not impossible.
 * Monster battles Rank 3 and below will be heralded by Cheebo or Hunters (Rank 4) and above.
