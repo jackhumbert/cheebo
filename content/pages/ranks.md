@@ -5,13 +5,14 @@ template = "page.html"
 +++
 
 ### Overview
-The goal of these ranks is a way to give players agency to "level up" and feel like they are progressing, without being stymied by unreliable players or outdated systems. They are structured in a way to incentivize essential components of a good Belegarth participant:
+The goal of these ranks is a way to give players agency to "level up" and feel like they are progressing by rewarding:
+
 * Attendance
 * Presentation (of garb/armor)
 * High quality equipment (to use/share)
-* Combat skill
+* Combat skills development
 
-(Note that duels must only be _fought_, not _won_. Participation, not winning, is prioritized and rewarded. The only actual pass/fail tests are monster fights, which may be attempted with better armor/weapons to lower the difficulty.)
+(Note that duels must only be _fought_, not _won_. The only actual pass/fail tests are monster fights, which may be attempted with better armor/weapons to lower the difficulty.)
   
 ### Rank 1: Rookie
 _Welcome aboard, make yourself useful._
