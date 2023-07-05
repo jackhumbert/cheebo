@@ -40,7 +40,7 @@ Rank 1 Rewards:
 ### **Rank 2: Scout**
 _You’re trusted to go on ahead… and skilled enough to make it back._
 * 2/3 Rank 1 monsters slain
-* garb tunic/pants/belt, belt flag
+* garb tunic, garb pants, garb belt, belt flag
 * two blue weapons, one shield
 * 30 combat points, 3 service points
 * 50 duels (first to 3)
