@@ -26,12 +26,12 @@ _Welcome aboard, make yourself useful._
 * 25 duels (first to 3)
 * 1 cross-realm event/practice
 
-#### Rewards:
+Rewards:
 * may wear the monster slayer symbol on a belt flag
 * may call yourself a monster slayer
 * may challenge rank 1 monsters
-
-
+\
+\
 ### **Rank 2: Scout**
 _You’re trusted to go on ahead… and skilled enough to make it back._
 * 2/3 Rank 1 monsters slain
@@ -41,11 +41,11 @@ _You’re trusted to go on ahead… and skilled enough to make it back._
 * 50 duels (first to 3)
 * 3 cross-realm events/practices
 
-#### Rewards:
+Rewards:
 *may wear a green belt
 *may challenge rank 2 monsters
-
-
+\
+\
 ### **Rank 3: Warden**
 _You spend as much time beating on recruits as you do monsters._
 * 2/3 Rank 2 monsters slain
@@ -56,11 +56,11 @@ _You spend as much time beating on recruits as you do monsters._
 * 25 duels (first to 10)
 * 5 cross-realm events/practices
 
-#### Rewards:
+Rewards:
 * may wear monster hunter icon on a shield
 * may challenge rank 3 monsters
-
- 
+\
+\
 ### **Rank 4: Hunter**
 _No more expeditions for food, you hunt THREATS now._
 * 2/3 Rank 3 monsters slain
@@ -72,14 +72,14 @@ _No more expeditions for food, you hunt THREATS now._
 * 50 duels (first to 10)
 * 10 cross-realm events/practices
 
-#### Rewards:
+Rewards:
 * I will make you a hunter belt flag
 * may wear a plain yellow belt
 * may wear the hunter symbol
 * may hold rank 3 and below challenges
 * may challenge rank 4 monsters
-
-
+\
+\
 ### **Rank 5: Daystalker**
 _You never balk at a challenge, rookies sign up to be like you._
 * 2/3 Rank 4 monsters slain
@@ -94,8 +94,8 @@ _You never balk at a challenge, rookies sign up to be like you._
 Rewards:
 * I will knit you a macrame & paracord Daystalker belt (yellow with red trim)
 * may challenge rank 5 monsters
-
- 
+\
+\
 ### **Rank 6: Twilight Hunter**
 _There’s a new apex predator in the biome._
 * 2/3 Rank 5 monsters slain
@@ -110,8 +110,8 @@ _There’s a new apex predator in the biome._
 Rewards:
 * I will design and make you a custom shield cover
 * may challenge rank 6 monsters
-
-
+\
+\
 ### **Rank 7: Nightmare Slayer**
 _Maybe YOU are the monster…_
 * ALL monsters slain
