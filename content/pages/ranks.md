@@ -12,7 +12,7 @@ The goal of these ranks is a way to give players agency to "level up" and feel l
 * High quality equipment (to use/share)
 * Combat skills development
 
-(Note that duels must only be _fought_, not _won_. The only actual pass/fail tests are monster fights, which may be attempted with better armor/weapons to lower the difficulty.)
+(Note that duels must only be _fought_, not _won_.)
   
 ### Rank 1: Rookie
 _Welcome aboard, make yourself useful._
