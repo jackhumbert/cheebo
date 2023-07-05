@@ -4,19 +4,15 @@ path = "ranks"
 template = "page.html"
 +++
 
-#### Glossary
-* **Combat points**: one given per practice/event (1 per day for mulit-day events)
-* **Service points**: given for running scenarios, volunteering at events, donating (modern) equipment to loaner stash
-* **Duels**:	first to 3 or first to 10; 1 duel may be recorded per day _per opponent_
-* **Cross-realm event/practice**: any Belegarth event or practice in another realm (e.g. Armageddon, Mittelmarch practice, etc) 
+### Overview
+The goal of these ranks is a way to give players agency to "level up" and feel like they are progressing, without being stymied by unreliable players or outdated systems. They are structured in a way to incentivize essential components of a good Belegarth participant:
+* Attendance
+* Presentation (of garb/armor)
+* High quality equipment (to use/share)
+* Combat skill
 
-#### Reserved symbols:
-* Purple belts (belts with more than 33% purple)
-* Yellow belts (belts with more than 33% yellow)
-* Yellow belts with red trim
-* Monster slayer icon (TBD)
-* Hunter icon (TBD)
-
+(Note that duels must only be _fought_, not _won_. Participation, not winning, is prioritized and rewarded. The only actual pass/fail tests are monster fights, which may be attempted with better armor/weapons to lower the difficulty.)
+  
 ### Rank 1: Rookie
 _Welcome aboard, make yourself useful._
 * waiver on file
