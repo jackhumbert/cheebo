@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "https://jackhumbert.github.io/Cheebo"
 title = "Monster Slayers"
-description = "Monster Slayer Ranks"
+description = "Monster Slayer Rank Information"
 theme = "anpu"
 
 # Whether to automatically compile all Sass files in the sass directory
