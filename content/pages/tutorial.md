@@ -1,3 +1,5 @@
++++ title = "Tutorial" path = "tutorial" template = "page.html" +++
+
 ### Recording Progress
 * All points and duels progress can be reported @cheebocheebo via the Monster Slayer channel in the NS Discord (under #units). A google sheets ranking will be
 * Verification of starter garb will be done by Cheebo or Hunters (Rank 4) and above.
