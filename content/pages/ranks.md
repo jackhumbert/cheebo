@@ -11,11 +11,11 @@ template = "page.html"
 * **Cross-realm event/practice**: any Belegarth event or practice in another realm (e.g. Armageddon, Mittelmarch practice, etc) 
 
 #### Reserved symbols:
-*Green belts (belts with more than 33% green)
-*Yellow belts (belts with more than 33% yellow)
-*Yellow belts with red trim
-*Monster slayer icon (TBD)
-*Hunter icon (TBD)
+* Purple belts (belts with more than 33% purple)
+* Yellow belts (belts with more than 33% yellow)
+* Yellow belts with red trim
+* Monster slayer icon (TBD)
+* Hunter icon (TBD)
 
 ### Rank 1: Rookie
 _Welcome aboard, make yourself useful._
