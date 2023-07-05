@@ -27,7 +27,8 @@
 
 **Cross-realm event/practice**: any **Belegarth** or **Dagorhir** event (e.g. Armageddon, Olympics, War...) or practice in another realm (e.g. Mittelmarch, Dragonspire, Sanctorium...).
 
-### Reserved symbols - The following symbols are reserved for specific ranks within the Monster Slayer system. I respectfully ask that all participating players avoid wearing the following on the field and at events without permission:
+### Reserved symbols
+The following symbols are reserved for specific ranks within the Monster Slayer system. I respectfully ask that all _participating_ players avoid wearing the following on the field and at events without permission:
 
 * Purple belts (belts with more than 50% purple)
 * Yellow belts (belts with more than 50% yellow)
