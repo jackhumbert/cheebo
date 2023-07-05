@@ -115,10 +115,10 @@ _Even the insects fall silent when you pass through. Nature knows an apex predat
 * 3/3 Rank-3 monsters slain
 * full armor, personal heraldry
 * polearm AND red weapon
-* 200 combat points, 20 service points
-* 400 duels (first to 3)
-* 100 duels (first to 10)
-* 20 cross-realm events/practices
+* 250 combat points, 25 service points
+* 500 duels (first to 3)
+* 125 duels (first to 10)
+* 25 cross-realm events/practices
 
 Rank 6 Rewards:
 * I will design and make you a custom shield cover
