@@ -1,4 +1,4 @@
-+++ 
++++
 title = "Tutorial"
 path = "tutorial"
 template = "page.html"
