@@ -1,7 +1,7 @@
 # The URL the site will be built for
-base_url = "https://jackhumbert.github.io/cheebo"
-title = "Cheebo"
-description = "Monster Hunter Ranks"
+base_url = "https://jackhumbert.github.io/Monster_Slayers"
+title = "Monster Slayers"
+description = "Monster Slayer Ranks"
 theme = "anpu"
 
 # Whether to automatically compile all Sass files in the sass directory
@@ -21,5 +21,5 @@ highlight_code = false
 anpu_menu_links = [
     { url = "$BASE_URL/ranks", name = "Ranks" },
     { url = "$BASE_URL/monsters", name = "Monsters" },
-    { url = "$BASE_URL/rewards", name = "Rewards" },
+    { url = "$BASE_URL/rewards", name = "Tutorial" },
 ]
