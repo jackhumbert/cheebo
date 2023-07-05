@@ -130,7 +130,7 @@ Rank 6 Rewards:
 ### **Rank 7: Nightmare Slayer**
 _Maybe YOU are the monster…_
 * ALL monsters slain
-* WIN 666 duels (first to 6)
+* WIN 666 duels
 
 Rank 7 Rewards:
 * I will design and make you a fitted tunic
