@@ -18,7 +18,7 @@ Check your progress [here](https://docs.google.com/spreadsheets/d/1cej9XUM2AD0IN
 \
 \
 \
-\
+
 ### **Rank 1: Rookie**
 _Welcome aboard, make yourself useful._
 * waiver on file
@@ -36,7 +36,7 @@ Rank 1 Rewards:
 \
 \
 \
-\
+
 ### **Rank 2: Scout**
 _You’re trusted to go on ahead… and skilled enough to make it back._
 * 2/3 Rank 1 monsters slain
@@ -52,7 +52,7 @@ Rank 2 Rewards:
 \
 \
 \
-\
+
 ### **Rank 3: Warden**
 _You spend as much time beating on recruits as you do monsters._
 * 2/3 Rank 2 monsters slain
@@ -69,7 +69,7 @@ Rank 3 Rewards:
 \
 \
 \
-\
+
 ### **Rank 4: Hunter**
 _No more expeditions for food, you hunt THREATS now._
 * 2/3 Rank 3 monsters slain
@@ -90,7 +90,7 @@ Rank 4 Rewards:
 \
 \
 \
-\
+
 ### **Rank 5: Daystalker**
 _You never balk at a challenge, rookies sign up wanting to be like you someday._
 * 2/3 Rank 4 monsters slain
@@ -108,7 +108,7 @@ Rank 5 Rewards:
 \
 \
 \
-\
+
 ### **Rank 6: Twilight Hunter**
 _Even the insects fall silent when you pass through. Nature knows an apex predator._
 * 2/3 Rank 5 monsters slain
@@ -126,7 +126,7 @@ Rank 6 Rewards:
 \
 \
 \
-\
+
 ### **Rank 7: Nightmare Slayer**
 _Maybe YOU are the monster…_
 * ALL monsters slain
