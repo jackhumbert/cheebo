@@ -1,11 +1,11 @@
-#### Recording Progress
+### Recording Progress
 * All points and duels progress can be reported @cheebocheebo via the Monster Slayer channel in the NS Discord (under #units). A google sheets ranking will be
 * Verification of starter garb will be done by Cheebo or Hunters (Rank 4) and above.
 * Heralds choose the participants to act as the "monster". Participants will be as close to the challenger's rank/skill as feasible. The challenges should be fun, not impossible.
 * Monster battles Rank 3 and below will be heralded by Cheebo or Hunters (Rank 4) and above.
 * Monster battles Rank 4 and above will be heralded by Cheebo exclusively (since I'm the one making the rewards).
 
-#### Glossary
+### Glossary
 **Combat points** - given for the following:
 * 1 for attending and fighting for the duration of an official realm practice
 * 1 for each day scheduled day of a Belegarth event
@@ -22,7 +22,7 @@
 
 **Cross-realm event/practice**: any **Belegarth** or **Dagorhir** event or practice in another realm (e.g. Armageddon, Mittelmarch practice, etc). Amtgard weaponmaster tournaments also count towards this.
 
-#### Reserved symbols:
+### Reserved symbols:
 The following symbols are reserved for specific ranks within the Monster Slayer system. I respectfully ask that all participating players avoid wearing the following on the field and at events without permission.
 
 * Purple belts (belts with more than 50% purple)
