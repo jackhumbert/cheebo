@@ -47,8 +47,8 @@ _You’re trusted to go on ahead… and skilled enough to make it back._
 * 3 cross-realm events/practices
 
 Rank 2 Rewards:
-*may wear a green belt
-*may challenge rank 2 monsters
+* may wear a green belt
+* may challenge rank 2 monsters
 \
 \
 \
