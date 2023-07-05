@@ -18,12 +18,16 @@
 * 1 for donating a modern weapon or small shield to a chapter loaner stash
 * 2 for donating a medium or large shield to a chapter loaner stash
 
-**Duels**: 1 duel may be recorded per day _per opponent_. A duel is defined here as at least a first-to-3 (best of 5). For earning 3rd rank and beyond, 1/4 of all duels must be first-to-10 (best of 19). They are cumulative between ranks (don't reset). Example: upon reaching 25 duels for Rookie, only 25 more are needed to meet the required 50 for Scout. The exception is Rank 7, where all duels _are_ reset and the required 666 duels are all first to 6 (best of 13).
+**Duels**: 
+* 1 duel may be recorded per day _per opponent_
+* A duel is defined here as at least a first-to-3 (best of 5)
+* For earning 3rd rank and beyond, 1/4 of all duels must be first-to-10 (best of 19)
+* Duels are cumulative between ranks (don't reset). Example: upon reaching 25 duels for Rookie, only 25 more are needed to meet the required 50 for Scout.
+* For Rank 7, duels _are_ reset and the required 666 duels are all first to 6 (best of 13).
 
-**Cross-realm event/practice**: any **Belegarth** or **Dagorhir** event or practice in another realm (e.g. Armageddon, Mittelmarch practice, etc). Amtgard weaponmaster tournaments also count towards this.
+**Cross-realm event/practice**: any **Belegarth** or **Dagorhir** event (e.g. Armageddon, Olympics, War...) or practice in another realm (e.g. Mittelmarch, Dragonspire, Sanctorium...).
 
-### Reserved symbols:
-The following symbols are reserved for specific ranks within the Monster Slayer system. I respectfully ask that all participating players avoid wearing the following on the field and at events without permission.
+### Reserved symbols - The following symbols are reserved for specific ranks within the Monster Slayer system. I respectfully ask that all participating players avoid wearing the following on the field and at events without permission:
 
 * Purple belts (belts with more than 50% purple)
 * Yellow belts (belts with more than 50% yellow)
