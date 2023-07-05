@@ -1,5 +1,7 @@
 +++ 
-title = "Tutorial" path = "tutorial" template = "page.html" 
+title = "Tutorial"
+path = "tutorial"
+template = "page.html"
 +++
 
 ### Recording Progress
