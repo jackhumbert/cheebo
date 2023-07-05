@@ -22,7 +22,7 @@ Check your progress [here](https://docs.google.com/spreadsheets/d/1cej9XUM2AD0IN
 ### **Rank 1: Rookie**
 _Welcome aboard, make yourself useful._
 * waiver on file
-* 3/3 Rank 0 monsters slain
+* 3/3 Rank-0 monsters slain
 * basic tunic + belt
 * two blue weapons or one weapon + shield
 * 10 combat points
@@ -39,7 +39,7 @@ Rank 1 Rewards:
 \
 ### **Rank 2: Scout**
 _You’re trusted to go on ahead… and skilled enough to make it back._
-* 2/3 Rank 1 monsters slain
+* 2/3 Rank-1 monsters slain
 * garb tunic, garb pants, garb belt, belt flag
 * two blue weapons, one shield
 * 30 combat points, 3 service points
@@ -55,7 +55,7 @@ Rank 2 Rewards:
 \
 ### **Rank 3: Warden**
 _You spend as much time beating on recruits as you do monsters._
-* 2/3 Rank 2 monsters slain
+* 2/3 Rank-2 monsters slain
 * 2 pieces of armor, decorated shield
 * four blue weapons, two shields
 * 50 combat points, 5 service points
@@ -72,8 +72,8 @@ Rank 3 Rewards:
 \
 ### **Rank 4: Hunter**
 _No more expeditions for food, you hunt THREATS now._
-* 2/3 Rank 3 monsters slain
-* 3/3 Rank 1 monsters slain
+* 2/3 Rank-3 monsters slain
+* 3/3 Rank-1 monsters slain
 * 4 pieces of armor, herald tabard, applique/decorated tunic
 * javelin
 * 100 combat points, 10 service points
@@ -93,8 +93,8 @@ Rank 4 Rewards:
 \
 ### **Rank 5: Daystalker**
 _You never balk at a challenge, rookies sign up wanting to be like you someday._
-* 2/3 Rank 4 monsters slain
-* 3/3 Rank 2 monsters slain
+* 2/3 Rank-4 monsters slain
+* 3/3 Rank-2 monsters slain
 * 6 pieces of armor
 * polearm or red weapon
 * 150 combat points, 15 service points
@@ -111,8 +111,8 @@ Rank 5 Rewards:
 \
 ### **Rank 6: Twilight Hunter**
 _Even the insects fall silent when you pass through. Nature knows an apex predator._
-* 2/3 Rank 5 monsters slain
-* 3/3 Rank 3 monsters slain
+* 2/3 Rank-5 monsters slain
+* 3/3 Rank-3 monsters slain
 * full armor, personal heraldry
 * polearm AND red weapon
 * 200 combat points, 20 service points
