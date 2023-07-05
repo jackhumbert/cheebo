@@ -26,7 +26,7 @@ _Welcome aboard, make yourself useful._
 * 25 duels (first to 3)
 * 1 cross-realm event/practice
 
-Rewards:
+Rank 1 Rewards:
 * may wear the monster slayer symbol on a belt flag
 * may call yourself a monster slayer
 * may challenge rank 1 monsters
@@ -41,7 +41,7 @@ _You’re trusted to go on ahead… and skilled enough to make it back._
 * 50 duels (first to 3)
 * 3 cross-realm events/practices
 
-Rewards:
+Rank 2 Rewards:
 *may wear a green belt
 *may challenge rank 2 monsters
 \
@@ -56,11 +56,12 @@ _You spend as much time beating on recruits as you do monsters._
 * 25 duels (first to 10)
 * 5 cross-realm events/practices
 
-Rewards:
+Rank 3 Rewards:
 * may wear monster hunter icon on a shield
 * may challenge rank 3 monsters
-\
-\
+
+
+
 ### **Rank 4: Hunter**
 _No more expeditions for food, you hunt THREATS now._
 * 2/3 Rank 3 monsters slain
@@ -72,16 +73,17 @@ _No more expeditions for food, you hunt THREATS now._
 * 50 duels (first to 10)
 * 10 cross-realm events/practices
 
-Rewards:
+Rank 4 Rewards:
 * I will make you a hunter belt flag
 * may wear a plain yellow belt
 * may wear the hunter symbol
 * may hold rank 3 and below challenges
 * may challenge rank 4 monsters
-\
-\
+
+
+
 ### **Rank 5: Daystalker**
-_You never balk at a challenge, rookies sign up to be like you._
+_You never balk at a challenge, rookies sign up wanting to be like you someday._
 * 2/3 Rank 4 monsters slain
 * 3/3 Rank 2 monsters slain
 * 6 pieces of armor
@@ -91,13 +93,14 @@ _You never balk at a challenge, rookies sign up to be like you._
 * 75 duels (first to 10)
 * 15 cross-realm events/practices
 
-Rewards:
+Rank 5 Rewards:
 * I will knit you a macrame & paracord Daystalker belt (yellow with red trim)
 * may challenge rank 5 monsters
-\
-\
+
+
+
 ### **Rank 6: Twilight Hunter**
-_There’s a new apex predator in the biome._
+_Even the insects fall silent when you pass through. Nature knows an apex predator._
 * 2/3 Rank 5 monsters slain
 * 3/3 Rank 3 monsters slain
 * full armor, personal heraldry
@@ -107,15 +110,16 @@ _There’s a new apex predator in the biome._
 * 100 duels (first to 10)
 * 20 cross-realm events/practices
 
-Rewards:
+Rank 6 Rewards:
 * I will design and make you a custom shield cover
 * may challenge rank 6 monsters
-\
-\
+
+
+
 ### **Rank 7: Nightmare Slayer**
 _Maybe YOU are the monster…_
 * ALL monsters slain
 * WIN 666 duels (first to 6)
 
-Rewards:
+Rank 7 Rewards:
 * I will design and make you a fitted tunic
