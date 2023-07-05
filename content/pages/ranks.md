@@ -16,7 +16,7 @@ The goal of these ranks is a way to give players agency to "level up" and feel l
 
 Check your progress [here](https://docs.google.com/spreadsheets/d/1cej9XUM2AD0INM7NuOD7rZw5dLI9HPzNh4-FJeW3tFI/edit?usp=drive_link)
   
-### Rank 1: Rookie
+### **Rank 1: Rookie**
 _Welcome aboard, make yourself useful._
 * waiver on file
 * 3/3 Rank 0 monsters slain
@@ -31,7 +31,8 @@ _Welcome aboard, make yourself useful._
 *may call yourself a monster slayer
 *may challenge rank 1 monsters
 
-### Rank 2: Scout
+
+### **Rank 2: Scout**
 _You’re trusted to go on ahead… and skilled enough to make it back._
 * 2/3 Rank 1 monsters slain
 * garb tunic/pants/belt, belt flag
@@ -44,7 +45,8 @@ _You’re trusted to go on ahead… and skilled enough to make it back._
 *may wear a green belt
 *may challenge rank 2 monsters
 
-### Rank 3: Warden
+
+### **Rank 3: Warden**
 _You spend as much time beating on recruits as you do monsters._
 * 2/3 Rank 2 monsters slain
 * 2 pieces of armor, decorated shield
@@ -57,8 +59,9 @@ _You spend as much time beating on recruits as you do monsters._
 #### Rewards:
 may wear monster hunter icon on a shield
 may challenge rank 3 monsters
+
  
-### Rank 4: Hunter
+### **Rank 4: Hunter**
 _No more expeditions for food, you hunt THREATS now._
 * 2/3 Rank 3 monsters slain
 * 3/3 Rank 1 monsters slain
@@ -76,7 +79,8 @@ _No more expeditions for food, you hunt THREATS now._
 *may hold rank 3 and below challenges
 *may challenge rank 4 monsters
 
-### Rank 5: Daystalker
+
+### **Rank 5: Daystalker**
 _You never balk at a challenge, rookies sign up to be like you._
 * 2/3 Rank 4 monsters slain
 * 3/3 Rank 2 monsters slain
@@ -90,8 +94,9 @@ _You never balk at a challenge, rookies sign up to be like you._
 Rewards:
 *I will knit you a macrame & paracord Daystalker belt (yellow with red trim)
 *may challenge rank 5 monsters
+
  
-### Rank 6: Twilight Hunter
+### **Rank 6: Twilight Hunter**
 _There’s a new apex predator in the biome._
 * 2/3 Rank 5 monsters slain
 * 3/3 Rank 3 monsters slain
@@ -106,7 +111,8 @@ Rewards:
 *I will design and make you a custom shield cover
 *may challenge rank 6 monsters
 
-### Rank 7: Nightmare Slayer
+
+### **Rank 7: Nightmare Slayer**
 _Maybe YOU are the monster…_
 * ALL monsters slain
 * WIN 666 duels (first to 6)
