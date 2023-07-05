@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://jackhumbert.github.io/Monster_Slayers"
+base_url = "https://jackhumbert.github.io/Cheebo"
 title = "Monster Slayers"
 description = "Monster Slayer Ranks"
 theme = "anpu"
