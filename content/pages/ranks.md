@@ -82,10 +82,8 @@ _No more expeditions for food, you hunt THREATS now._
 * 10 cross-realm events/practices
 
 Rank 4 Rewards:
-* I will make you a hunter belt flag
 * may wear a plain yellow belt
-* may wear the hunter symbol
-* may hold rank 3 and below challenges
+* may herald rank 3 and below challenges
 * may challenge rank 4 monsters
 \
 \
@@ -102,8 +100,9 @@ _You never balk at a challenge, rookies sign up wanting to be like you someday._
 * 75 duels (first to 10)
 * 15 cross-realm events/practices
 
-Rank 5 Rewards:
-* I will knit you a macrame & paracord Daystalker belt (yellow with red trim)
+Rank 5 Rewards:,
+* I will make you a Daystalker belt flag
+* may wear a yellow belt with red trim
 * may challenge rank 5 monsters
 \
 \
