@@ -21,6 +21,8 @@ Check your progress [here](https://docs.google.com/spreadsheets/d/1cej9XUM2AD0IN
 \
 ### **Rank 1: Rookie**
 _Welcome aboard, make yourself useful._
+
+Rank 1 Requirements:
 * waiver on file
 * 2/3 Rank-0 monsters slain
 * basic tunic + belt
@@ -39,6 +41,8 @@ Rank 1 Rewards:
 \
 ### **Rank 2: Scout**
 _You’re trusted to go on ahead… and skilled enough to make it back._
+
+Rank 2 Requirements:
 * 2/3 Rank-1 monsters slain
 * garb tunic, garb pants, garb belt, belt flag
 * two blue weapons, one shield
@@ -55,6 +59,8 @@ Rank 2 Rewards:
 \
 ### **Rank 3: Warden**
 _You spend as much time beating on recruits as you do monsters._
+
+Rank 3 Requirements:
 * 2/3 Rank-2 monsters slain
 * 2 pieces of armor, decorated shield
 * four blue weapons, two shields
@@ -72,6 +78,8 @@ Rank 3 Rewards:
 \
 ### **Rank 4: Hunter**
 _No more expeditions for food, you hunt THREATS now._
+
+Rank 4 Requirements:
 * 2/3 Rank-3 monsters slain
 * 4 pieces of armor, herald tabard, applique/decorated tunic
 * javelin
@@ -90,6 +98,8 @@ Rank 4 Rewards:
 \
 ### **Rank 5: Daystalker**
 _You never balk at a challenge, rookies sign up wanting to be like you someday._
+
+Rank 5 Requirements:
 * 2/3 Rank-4 monsters slain
 * 6 pieces of armor
 * polearm or red weapon
@@ -106,7 +116,9 @@ Rank 5 Rewards:,
 \
 \
 ### **Rank 6: Twilight Hunter**
-_Even the insects fall silent when you pass through. Nature knows an apex predator._
+_Even the insects fall silent when you pass. Nature knows an apex predator._
+
+Rank 6 Requirements:
 * 2/3 Rank-5 monsters slain
 * full armor, personal heraldry
 * polearm AND red weapon
@@ -124,6 +136,9 @@ Rank 6 Rewards:
 \
 ### **Rank 7: Nightmare Slayer**
 _Maybe YOU are the monster…_
+
+
+Rank 7 Requirements:
 * ALL monsters slain
 * WIN 666 duels
 
