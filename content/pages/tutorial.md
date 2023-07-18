@@ -28,8 +28,7 @@ template = "page.html"
 **Duels**: 
 * 1 duel may be recorded per day _per opponent_
 * A duel is defined here as at least a first-to-3
-* For earning 3rd rank and beyond, 1/4 of all duels must be first-to-10
-* Duels are cumulative (don't reset) for ranks 0-6 (Example: upon reaching 25 duels for Rookie, only 25 more are needed to meet the required 50 for Scout)
+* Duels are cumulative (don't reset) for ranks 0-6 (Example: upon reaching 25 duels for Rookie, only 50 more are needed to meet the required 75 for Scout)
 * For Rank 7, duels _are_ reset.
 
 **Cross-realm event/practice**: any **Belegarth** or **Dagorhir** event (e.g. Armageddon, Olympics, War...) or practice in another realm (e.g. Mittelmarch, Dragonspire, Sanctorium...).
@@ -39,6 +38,6 @@ The following symbols are reserved for specific ranks within the Monster Slayer 
 
 * Purple belts (belts with more than 50% purple)
 * Yellow belts (belts with more than 50% yellow)
-* Yellow belts with red trim, or exclusively yellow/red belts
+* Yellow belts with red trim, and/or exclusively yellow/red belts
 * Monster slayer icon (TBD)
 * Hunter icon (TBD)
