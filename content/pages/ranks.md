@@ -32,7 +32,7 @@ Rank 1 Requirements:
 * 1 cross-realm event/practice
 
 Rank 1 Rewards:
-* may wear the monster slayer symbol on a belt flag
+* may wear a monster slayer belt flag
 * may call yourself a monster slayer
 * may challenge rank 1 monsters
 \
@@ -44,14 +44,14 @@ _You’re trusted to go on ahead… and skilled enough to make it back._
 
 Rank 2 Requirements:
 * 2/3 Rank-1 monsters slain
-* garb tunic, garb pants, garb belt, belt flag
+* tunic + garb pants, LARP belt + belt flag
 * two blue weapons, one shield
 * 30 combat points, 3 service points
-* 100 duels (first to 3)
+* 75 duels (first to 3)
 * 3 cross-realm events/practices
 
 Rank 2 Rewards:
-* may wear a solid purple belt with monster slayer belt flag
+* may wear a solid purple belt
 * may challenge rank 2 monsters
 \
 \
@@ -65,11 +65,11 @@ Rank 3 Requirements:
 * 2 pieces of armor, decorated shield
 * four blue weapons, two shields
 * 50 combat points, 5 service points
-* 150 duels (first to 3)
+* 125 duels (first to 3)
 * 5 cross-realm events/practices
 
 Rank 3 Rewards:
-* may wear monster hunter icon on a shield
+* may wear monster hunter symbol on a shield
 * may challenge rank 3 monsters
 \
 \
@@ -80,10 +80,10 @@ _No more expeditions for food, you hunt THREATS now._
 
 Rank 4 Requirements:
 * 2/3 Rank-3 monsters slain
-* 4 pieces of armor, herald tabard, applique/decorated tunic
+* 4 pieces of armor, herald tabard
 * javelin
 * 100 combat points, 10 service points
-* 400 duels (first to 3)
+* 200 duels (first to 3)
 * 10 cross-realm events/practices
 
 Rank 4 Rewards:
@@ -99,10 +99,10 @@ _You never balk at a challenge, rookies sign up wanting to be like you someday._
 
 Rank 5 Requirements:
 * 2/3 Rank-4 monsters slain
-* 6 pieces of armor
+* 6 pieces of armor applique/decorated tunic
 * polearm or red weapon
 * 150 combat points, 15 service points
-* 500 duels (first to 3)
+* 300 duels (first to 3)
 * 15 cross-realm events/practices
 
 Rank 5 Rewards:,
@@ -120,7 +120,7 @@ Rank 6 Requirements:
 * full armor, personal heraldry
 * polearm AND red weapon
 * 250 combat points, 25 service points
-* 600 duels (first to 3)
+* 500 duels (first to 3)
 * 25 cross-realm events/practices
 
 Rank 6 Rewards:
