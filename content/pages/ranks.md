@@ -22,7 +22,7 @@ Check your progress [here](https://docs.google.com/spreadsheets/d/1cej9XUM2AD0IN
 ### **Rank 1: Rookie**
 _Welcome aboard, make yourself useful._
 * waiver on file
-* 3/3 Rank-0 monsters slain
+* 2/3 Rank-0 monsters slain
 * basic tunic + belt
 * two blue weapons or one weapon + shield
 * 10 combat points
@@ -47,7 +47,7 @@ _You’re trusted to go on ahead… and skilled enough to make it back._
 * 3 cross-realm events/practices
 
 Rank 2 Rewards:
-* may wear a solid purple belt
+* may wear a solid purple belt with monster slayer belt flag
 * may challenge rank 2 monsters
 \
 \
@@ -82,7 +82,7 @@ _No more expeditions for food, you hunt THREATS now._
 * 10 cross-realm events/practices
 
 Rank 4 Rewards:
-* may wear a plain yellow belt
+* may wear a plain yellow belt with monster slayer belt flag
 * may herald rank 3 and below challenges
 * may challenge rank 4 monsters
 \
@@ -101,7 +101,6 @@ _You never balk at a challenge, rookies sign up wanting to be like you someday._
 * 15 cross-realm events/practices
 
 Rank 5 Rewards:,
-* I will make you a Daystalker belt flag
 * may wear a yellow belt with red trim
 * may challenge rank 5 monsters
 \
@@ -120,7 +119,7 @@ _Even the insects fall silent when you pass through. Nature knows an apex predat
 * 25 cross-realm events/practices
 
 Rank 6 Rewards:
-* I will design and make you a custom shield cover
+* may add monster slayer logo to personal heraldry, may wear monster slayer logo in personal/company colors
 * may challenge rank 6 monsters
 \
 \
