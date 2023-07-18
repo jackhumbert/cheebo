@@ -17,7 +17,7 @@ template = "page.html"
 * 1 for attending and fighting for the duration of an official realm practice
 * 1 for each scheduled battle day of a Belegarth/Dagorhir event
 * 1 for placing in the top 8 of a tournament
-* 1 for defeating a monster in a duo challenge
+* 1 for defeating a monster
 
 **Service points** - given for the following:
 * 1 for volunteering/heralding at an event
