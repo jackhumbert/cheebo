@@ -12,7 +12,7 @@ The goal of these ranks is a way to give players agency to "level up" and feel l
 * High quality equipment (to use/share)
 * Combat skills development
 
-(Note that duels must only be _fought_, not _won_.)
+(Note that until rank 7, duels must only be _fought_, not _won_.)
 
 Check your progress [here](https://docs.google.com/spreadsheets/d/1cej9XUM2AD0INM7NuOD7rZw5dLI9HPzNh4-FJeW3tFI/edit?usp=drive_link)
 \
@@ -47,7 +47,7 @@ Rank 2 Requirements:
 * garb tunic, garb pants, garb belt, belt flag
 * two blue weapons, one shield
 * 30 combat points, 3 service points
-* 50 duels (first to 3)
+* 100 duels (first to 3)
 * 3 cross-realm events/practices
 
 Rank 2 Rewards:
@@ -65,8 +65,7 @@ Rank 3 Requirements:
 * 2 pieces of armor, decorated shield
 * four blue weapons, two shields
 * 50 combat points, 5 service points
-* 100 duels (first to 3)
-* 25 duels (first to 10)
+* 150 duels (first to 3)
 * 5 cross-realm events/practices
 
 Rank 3 Rewards:
@@ -84,8 +83,7 @@ Rank 4 Requirements:
 * 4 pieces of armor, herald tabard, applique/decorated tunic
 * javelin
 * 100 combat points, 10 service points
-* 200 duels (first to 3)
-* 50 duels (first to 10)
+* 400 duels (first to 3)
 * 10 cross-realm events/practices
 
 Rank 4 Rewards:
@@ -104,8 +102,7 @@ Rank 5 Requirements:
 * 6 pieces of armor
 * polearm or red weapon
 * 150 combat points, 15 service points
-* 300 duels (first to 3)
-* 75 duels (first to 10)
+* 500 duels (first to 3)
 * 15 cross-realm events/practices
 
 Rank 5 Rewards:,
@@ -123,8 +120,7 @@ Rank 6 Requirements:
 * full armor, personal heraldry
 * polearm AND red weapon
 * 250 combat points, 25 service points
-* 500 duels (first to 3)
-* 125 duels (first to 10)
+* 600 duels (first to 3)
 * 25 cross-realm events/practices
 
 Rank 6 Rewards:
