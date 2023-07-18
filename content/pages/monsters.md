@@ -7,8 +7,8 @@ template = "page.html"
 ***NOTE**: You may challenge any monster your rank or below, onece every practice/event day. Missile weapons that touch a monster are “broken” and cannot be reused.*
 
 ### Rank 0
-* Acid Slime - mirror style - (challenger must also be single blue, if challenger’s weapon touches the monster it is "dissolved"; i.e. you must land only a killing blow)
-* Vampire - mirror style (limbs regenerate on a 3-count, can only be killed with a stab to the torso)
+* Acid Slime - single blue - (challenger must also be single blue, if challenger’s weapon touches the monster it is "dissolved"; i.e. you must land only a killing blow)
+* Vampire - mirror style (limbs regenerate on a 3-count "3..2..1..regen", can only be killed with a stab to the torso)
 * Mudman - s/b - (doesn’t lose limbs, has 10hp, hits to monster’s shield take 1hp, body takes 2hp)
 
 ### Rank 1
