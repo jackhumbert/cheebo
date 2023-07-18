@@ -73,7 +73,6 @@ Rank 3 Rewards:
 ### **Rank 4: Hunter**
 _No more expeditions for food, you hunt THREATS now._
 * 2/3 Rank-3 monsters slain
-* 3/3 Rank-1 monsters slain
 * 4 pieces of armor, herald tabard, applique/decorated tunic
 * javelin
 * 100 combat points, 10 service points
@@ -92,7 +91,6 @@ Rank 4 Rewards:
 ### **Rank 5: Daystalker**
 _You never balk at a challenge, rookies sign up wanting to be like you someday._
 * 2/3 Rank-4 monsters slain
-* 3/3 Rank-2 monsters slain
 * 6 pieces of armor
 * polearm or red weapon
 * 150 combat points, 15 service points
@@ -110,7 +108,6 @@ Rank 5 Rewards:,
 ### **Rank 6: Twilight Hunter**
 _Even the insects fall silent when you pass through. Nature knows an apex predator._
 * 2/3 Rank-5 monsters slain
-* 3/3 Rank-3 monsters slain
 * full armor, personal heraldry
 * polearm AND red weapon
 * 250 combat points, 25 service points
