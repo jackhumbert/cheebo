@@ -4,7 +4,7 @@ path = "monsters"
 template = "page.html"
 +++
 
-***NOTE**: You may challenge any monster your rank or below, once per practice/event day. Missile weapons that touch a monster are “broken” and cannot be reused.*
+***NOTE**: You may challenge any monster your rank or below, once per practice/event day. Challenge them solo to record the kill, or as a duo to earn combat points. Missile weapons that touch a monster are “broken” and cannot be reused.*
 
 ### Rank 0
 * Acid Slime - single blue - (challenger must also be single blue, if challenger’s weapon touches the monster it is "dissolved"; i.e. you must land only a killing blow)
