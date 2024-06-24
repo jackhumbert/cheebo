@@ -28,7 +28,7 @@ Rank 1 Requirements:
 * basic tunic + belt
 * two blue weapons or one weapon + shield
 * 10 combat points
-* 25 duels (first to 3)
+* 25 duels
 * 1 cross-realm event/practice
 
 Rank 1 Rewards:
@@ -47,7 +47,7 @@ Rank 2 Requirements:
 * tunic + garb pants, LARP belt + belt flag
 * two blue weapons, one shield
 * 30 combat points, 3 service points
-* 75 duels (first to 3)
+* 75 duels
 * 3 cross-realm events/practices
 
 Rank 2 Rewards:
@@ -65,7 +65,7 @@ Rank 3 Requirements:
 * 2 pieces of armor, decorated shield
 * four blue weapons, two shields
 * 50 combat points, 5 service points
-* 125 duels (first to 3)
+* 125 duels
 * 5 cross-realm events/practices
 
 Rank 3 Rewards:
@@ -83,7 +83,7 @@ Rank 4 Requirements:
 * 4 pieces of armor, herald tabard
 * javelin
 * 100 combat points, 10 service points
-* 200 duels (first to 3)
+* 200 duels
 * 10 cross-realm events/practices
 
 Rank 4 Rewards:
@@ -102,7 +102,7 @@ Rank 5 Requirements:
 * 6 pieces of armor applique/decorated tunic
 * polearm or red weapon
 * 150 combat points, 15 service points
-* 300 duels (first to 3)
+* 300 duels
 * 15 cross-realm events/practices
 
 Rank 5 Rewards:,
@@ -120,7 +120,7 @@ Rank 6 Requirements:
 * full armor, personal heraldry
 * polearm AND red weapon
 * 250 combat points, 25 service points
-* 500 duels (first to 3)
+* 500 duels
 * 25 cross-realm events/practices
 
 Rank 6 Rewards:
