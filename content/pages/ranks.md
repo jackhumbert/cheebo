@@ -95,7 +95,7 @@ Rank 4 Rewards:
 \
 \
 ### **Rank 5: Daystalker**
-_You never balk at a challenge, rookies sign up wanting to be like you someday._
+_Even exhausted, your sword arm twitches at the mere rumor of a challenge. Rookies sign up wanting to be like you someday._
 
 Rank 5 Requirements:
 * 2/3 Rank-4 monsters slain
