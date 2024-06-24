@@ -57,7 +57,7 @@ Rank 2 Rewards:
 \
 \
 \
-### **Rank 3: Warden**
+### **Rank 3: Aspirant**
 _You spend as much time beating on recruits as you do monsters._
 
 Rank 3 Requirements:
