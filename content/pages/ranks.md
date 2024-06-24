@@ -17,6 +17,8 @@ The goal of these ranks is a way to give players agency to "level up" and feel l
 Check your progress [here](https://docs.google.com/spreadsheets/d/1cej9XUM2AD0INM7NuOD7rZw5dLI9HPzNh4-FJeW3tFI/edit?usp=drive_link)
 
 \
+\
+\
 ### **Rank 1: Rookie**
 _Welcome aboard, make yourself useful._
 
