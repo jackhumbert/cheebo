@@ -18,7 +18,7 @@ Check your progress [here](https://docs.google.com/spreadsheets/d/1cej9XUM2AD0IN
 \
 \
 \
-
+\
 ### **Rank 1: Rookie**
 _Welcome aboard, make yourself useful._
 
