@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://jackhumbert.github.io/cheebo/sitemap.xml
