@@ -14,7 +14,7 @@ The goal of these ranks is a way to give players agency to "level up" and feel l
 
 (Note that until rank 7, duels must only be _fought_, not _won_.)
 
-Check your progress [here](https://docs.google.com/spreadsheets/d/1cej9XUM2AD0INM7NuOD7rZw5dLI9HPzNh4-FJeW3tFI/edit?usp=drive_link)
+Check your progress [here](https://docs.google.com/spreadsheets/d/1cej9XUM2AD0INM7NuOD7rZw5dLI9HPzNh4-FJeW3tFI/edit?usp=drive_link) 
 
 \
 \
