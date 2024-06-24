@@ -18,7 +18,6 @@ Check your progress [here](https://docs.google.com/spreadsheets/d/1cej9XUM2AD0IN
 \
 \
 \
-\
 ### **Rank 1: Rookie**
 _Welcome aboard, make yourself useful._
 
@@ -35,7 +34,6 @@ Rank 1 Rewards:
 * may wear a monster slayer belt flag
 * may call yourself a monster slayer
 * may challenge rank 1 monsters
-\
 \
 \
 \
@@ -56,7 +54,6 @@ Rank 2 Rewards:
 \
 \
 \
-\
 ### **Rank 3: Aspirant**
 _You spend as much time beating on recruits as you do monsters._
 
@@ -71,7 +68,6 @@ Rank 3 Requirements:
 Rank 3 Rewards:
 * may wear monster hunter symbol on a shield
 * may challenge rank 3 monsters
-\
 \
 \
 \
@@ -93,7 +89,6 @@ Rank 4 Rewards:
 \
 \
 \
-\
 ### **Rank 5: Daystalker**
 _Even exhausted, your sword arm twitches at the mere rumor of a challenge. Rookies sign up wanting to be like you someday._
 
@@ -111,7 +106,6 @@ Rank 5 Rewards:,
 \
 \
 \
-\
 ### **Rank 6: Twilight Hunter**
 _Even the insects fall silent when you pass. Nature knows an apex predator._
 
@@ -126,7 +120,6 @@ Rank 6 Requirements:
 Rank 6 Rewards:
 * may add monster slayer logo to personal heraldry, may wear monster slayer logo in personal/company colors
 * may challenge rank 6 monsters
-\
 \
 \
 \
